@@ -12,7 +12,7 @@ main(){
  print(a); 
   
   
- // Operadores Relacionais (binário/infix) -> O resultado sempre é BOOL
+ // Operadores Relacionais (binário/infix)
  print(3 > 2);
  print(3 >= 3);
  print(3 < 4);
